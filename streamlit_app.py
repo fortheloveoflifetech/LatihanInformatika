@@ -15,3 +15,4 @@ if (angka % 2) == 0:
 else:
     st.write(f"{angka} adalah Bilangan Ganjil")
 
+
